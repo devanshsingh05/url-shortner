@@ -41,8 +41,9 @@ A full-stack URL Shortener web application built using the MERN stack. It allows
 ```
 url-shortener/
 │
-├── frontend/
-├── backend/
+├── client/
+├── server/
+└── README.md
 ```
 
 ---
